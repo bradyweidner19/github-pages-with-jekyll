@@ -1,3 +1,7 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+<html>
+  <head>
+    <h1>Welcome to my blog</h1>
+  </head>
+  <body>
+    <h2>My name is Brady Weidner</h2>
+  </body>
